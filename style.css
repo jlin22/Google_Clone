@@ -1,0 +1,38 @@
+body {
+	font-family: Inconsolata, Monospace;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	padding-top: 109px;
+	padding-bottom: 34px;
+}
+
+#searchbar {
+	height: 34px;
+	width: 40%;
+	line-height: 34px;
+}
+#left {
+	float: left;
+}
+
+#right {
+	float: right;
+}
+
+#buttons {
+	padding-top: 34px;
+	text-align: center;
+}
+
+input {
+	font-family: Inconsolata, Monospace;
+	font-size: 16px;
+	border-radius: 0px 0px;
+}
